@@ -1,3 +1,4 @@
 First line for first commit
 Second line for second commit
 Third line for third commit
+Sixth line on branch2 for sixth commit
